@@ -1,3 +1,6 @@
+# Who I am
+Hello! I am Cole Dobmeier and I am a teen living in Colorado and I am an aspiriing Computer Science Student. In college I plan to study Computer Science and the related fields and deepen my knowledge. At [Epic Campus](https://littletonpublicschools.net/schools/epiccampus/welcome), an innovative pathway that provides crucial first person experience in many pathways. In the Computer Science pathway we have visited a multitude of colleges and learned about python, the depths of AI, and how to use code to manipulate real world objects. If you have any questions about what you see below, please feel free to email me at [cwd495@icloud.com](mailto:cwd495@icloud.com).
+
 # My GitHub Portfolio
 
 Welcome to my GitHub portfolio! Below are some of my key projects. Each repository highlights a different aspect of my programming expertise, from python scripts to breadboard circuits. Feel free to explore, fork, or contribute!
