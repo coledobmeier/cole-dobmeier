@@ -1,6 +1,6 @@
 # My GitHub Portfolio
 
-Welcome to my GitHub portfolio! Below are some of my key projects. Each repository highlights a different aspect of my programming expertise, from web development to machine learning. Feel free to explore, fork, or contribute!
+Welcome to my GitHub portfolio! Below are some of my key projects. Each repository highlights a different aspect of my programming expertise, from python scripts to breadboard circuits. Feel free to explore, fork, or contribute!
 
 ## 📂 Featured Projects
 
