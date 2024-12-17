@@ -56,6 +56,6 @@ Python, CLI frameworks, VS Code
 ---
 
 ## 📬 Contact Me
-If you have any questions or would like to collaborate, feel free to reach out via [cwd495@icloud.com](mailto:cwd495@icloud.com) or connect with me via [Phone](720-930-8022).
+If you have any questions or would like to collaborate, feel free to reach out via [cwd495@icloud.com](mailto:cwd495@icloud.com).
 
 Thank you for visiting my portfolio!
