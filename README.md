@@ -35,7 +35,7 @@ Welcome to my GitHub portfolio! Below are some of my key projects. Each reposito
 
 ---
 
-### 2. [Raspberry Pi Stoplight](https://github.com/cole-dobmeier/Stoplight-Projects.git)
+### 3. [Raspberry Pi Stoplight](https://github.com/cole-dobmeier/Stoplight-Projects.git)
 **Description:**  
 Created a virtual circuit in Tinkercad to simulate a stoplight with three LEDs powered by simulated 3V coin batteries. Following our Tinkercad models, we transformed these circuits into physical circuits on Raspberry Pi's.
 
@@ -52,7 +52,7 @@ Created a virtual circuit in Tinkercad to simulate a stoplight with three LEDs p
 
 ---
 
-### 3. [Segmented Display](https://github.com/cole-dobmeier/Segmented-Display.git)
+### 4. [Segmented Display](https://github.com/cole-dobmeier/Segmented-Display.git)
 **Description:**
  A two-part project focusing on GPIO pin management and integrating a 7-segment display with a Raspberry Pi.
 **Features:**
@@ -66,7 +66,7 @@ Created a virtual circuit in Tinkercad to simulate a stoplight with three LEDs p
 
 ---
 
-### 4. [CS50 Solutions](https://github.com/cole-dobmeier/CS50_Solutions.git)
+### 5. [CS50 Solutions](https://github.com/cole-dobmeier/CS50_Solutions.git)
 **Description:**  
 CS50 is Harvard University's renowned introductory computer science course. Designed for beginners and experienced programmers alike, it provides a deep dive into core computer science concepts, including algorithms, data structures, memory management, and web development. The course emphasizes hands-on problem-solving through real-world projects, offering experience with languages like C, Python, SQL, and JavaScript, as well as tools like Git and Flask. CS50 is celebrated for its engaging lectures, challenging problem sets, and fostering a mindset for tackling complex programming challenges. Above is my linked solutions for week 0-4.
 **Features:**
