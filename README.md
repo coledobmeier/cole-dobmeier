@@ -5,6 +5,8 @@ Hello! My name is Cole Dobmeier and I am a teen based out of in Colorado and an 
 
 Welcome to my GitHub portfolio! Below are some of my key projects. Each repository highlights a different aspect of my programming expertise, from python scripts to breadboard circuits. Feel free to explore, fork, or contribute!
 
+[![My Skills](https://skillicons.dev/icons?i=py,java,raspberrypi,vscode)](https://skillicons.dev)
+
 ## 📂 Featured Projects
 
 ### 1. [Raspberry Pi RC Car](https://github.com/cole-dobmeier/Raspberry-Pi-Car.git)
