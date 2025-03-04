@@ -24,6 +24,17 @@ A colleague and I created a wired-Remote Controlled car utilizing a Raspberry Pi
 
 ---
 
+### 2. [Java Projects](https://github.com/cole-dobmeier/Java-Projects.git)
+**Description:**
+This repository stores all of my Java projects that I have created to understand the basics of Java code manipulation and programming.
+
+**Technologies:**
+- String Concatentation
+- Array Manipulation
+- Creating Constructors and Methods
+
+---
+
 ### 2. [Raspberry Pi Stoplight](https://github.com/cole-dobmeier/Stoplight-Projects.git)
 **Description:**  
 Created a virtual circuit in Tinkercad to simulate a stoplight with three LEDs powered by simulated 3V coin batteries. Following our Tinkercad models, we transformed these circuits into physical circuits on Raspberry Pi's.
