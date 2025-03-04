@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! Below are some of my key projects. Each reposito
 
 ### 1. [Raspberry Pi RC Car](https://github.com/cole-dobmeier/Raspberry-Pi-Car.git)
 **Description:**
-A colleague and I created a wired-Remote Controlled car utilizing a Raspberry Pi, parts from a Jetson Nano car kit, and our knowledge of Pyhton to control the car.
+ A colleague and I created a wired-Remote Controlled car utilizing a Raspberry Pi, parts from a Jetson Nano car kit, and our knowledge of Pyhton to control the car.
 
 **Features:**
 - 360 degree driving operations
@@ -54,7 +54,7 @@ Created a virtual circuit in Tinkercad to simulate a stoplight with three LEDs p
 
 ### 3. [Segmented Display](https://github.com/cole-dobmeier/Segmented-Display.git)
 **Description:**
-A two-part project focusing on GPIO pin management and integrating a 7-segment display with a Raspberry Pi.
+ A two-part project focusing on GPIO pin management and integrating a 7-segment display with a Raspberry Pi.
 **Features:**
 - GPIO Cleanup Script: Turned off all Raspberry Pi GPIO pins programmatically.
 - 7-Segment Display Integration: Displayed personalized messages with user input.
