@@ -26,7 +26,7 @@ A colleague and I created a wired-Remote Controlled car utilizing a Raspberry Pi
 
 ### 2. [Java Projects](https://github.com/cole-dobmeier/Java-Projects.git)
 **Description:**
-This repository stores all of my Java projects that I have created to understand the basics of Java code manipulation and programming.
+ This repository stores all of my Java projects that I have created to understand the basics of Java code manipulation and programming.
 
 **Technologies:**
 - String Concatentation
