@@ -5,8 +5,6 @@ Hello! My name is Cole Dobmeier and I am a teen based out of in Colorado and an 
 
 Welcome to my GitHub portfolio! Below are some of my key projects. Each repository highlights a different aspect of my programming expertise, from python scripts to breadboard circuits. Feel free to explore, fork, or contribute!
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,raspberrypi,vscode)](https://skillicons.dev)
-
 ## 📂 Featured Projects
 
 ### 1. [Raspberry Pi RC Car](https://github.com/cole-dobmeier/Raspberry-Pi-Car.git)
@@ -79,12 +77,35 @@ CS50 is Harvard University's renowned introductory computer science course. Desi
 **Technologies:**  
 Python, CLI frameworks, VS Code
 
----
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=coledobmeier&show_icons=true&theme=gotham"/>
-<div align="right">
-<img src="https://github-profile-trophy-coledobmeier.vercel.app/?username=coledobmeier&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
- </div>
+<div align="center">
 
+<table>
+  <tr>
+    <td colspan="3" align="center">
+      <h3>My Github Stats!</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=coledobmeier&show_icons=true&theme=gotham"/>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,java,raspberrypi"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coledobmeier&layout=compact&theme=gotham"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+<!-- [![My Skills](https://skillicons.dev/icons?i=py,java,raspberrypi,vscode)](https://skillicons.dev)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=coledobmeier&show_icons=true&theme=gotham"/>
+<!-- <div align="right">
+<img src="https://github-profile-trophy-coledobmeier.vercel.app/?username=coledobmeier&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+ </div> -->
 ---
 
 ## 📬 Contact Me
