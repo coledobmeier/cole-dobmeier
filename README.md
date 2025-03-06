@@ -80,6 +80,12 @@ CS50 is Harvard University's renowned introductory computer science course. Desi
 Python, CLI frameworks, VS Code
 
 ---
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=coledobmeier&show_icons=true&theme=gotham"/>
+<div align="right">
+<img src="https://github-profile-trophy-coledobmeier.vercel.app/?username=coledobmeier&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+ </div>
+
+---
 
 ## 📬 Contact Me
 If you have any questions or would like to collaborate, feel free to reach out via [cwd495@gmail.com](mailto:cwd495@gmail.com).
