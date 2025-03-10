@@ -106,7 +106,10 @@ Python, CLI frameworks, VS Code
 <!-- <div align="right">
 <img src="https://github-profile-trophy-coledobmeier.vercel.app/?username=coledobmeier&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
  </div> -->
+ 
 ---
+## Awards
+![Participant](Participant.png)
 
 ## 📬 Contact Me
 If you have any questions or would like to collaborate, feel free to reach out via [cwd495@gmail.com](mailto:cwd495@gmail.com).
