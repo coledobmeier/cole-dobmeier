@@ -109,7 +109,9 @@ Python, CLI frameworks, VS Code
  
 ---
 ## Awards
-![Participant](Participant.png)
+<p align="center">
+  <img src="Participant.png" alt="Participant">
+</p>
 
 ## 📬 Contact Me
 If you have any questions or would like to collaborate, feel free to reach out via [cwd495@gmail.com](mailto:cwd495@gmail.com).
