@@ -111,7 +111,7 @@ Python, CLI frameworks, VS Code
 ## Awards
 <p align="center">
   <img src="Participant.png" alt="Participant">
-  <img src="pcepCert.png" alt="PCEP Certification">
+  <img src="pcepCert.png" alt="PCEP Certification" width="350">
 </p>
 
 ## 📬 Contact Me
