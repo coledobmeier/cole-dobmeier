@@ -91,7 +91,7 @@ Python, CLI frameworks, VS Code
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,java,raspberrypi"/>
+        <img src="https://skillicons.dev/icons?i=py,java,raspberrypi,ubuntu,obsidian,github&perline=3"/>
       </a>
     </td>
     <td>
