@@ -77,35 +77,40 @@ CS50 is Harvard University's renowned introductory computer science course. Desi
 **Technologies:**  
 Python, CLI frameworks, VS Code
 
-<div align="center">
+---
 
-<table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coledobmeier&show_icons=true&theme=midnight-purple" height="225"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coledobmeier&layout=donut&theme=midnight-purple" height="225"/>
+</div>
+
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=py,java,raspberrypi,ubuntu,obsidian,github" width="450"/>
+</div>
+
+<!-- <div align="center">
+
+<table border="0">
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="center" border="0">
       <h3>My Github Stats!</h3>
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=coledobmeier&show_icons=true&theme=midnight-purple"/>
+    <td border="0">
+      <img src="https://github-readme-stats.vercel.app/api?username=coledobmeier&show_icons=true&theme=midnight-purple" height="225"/>
     </td>
-<!--     <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,java,raspberrypi,ubuntu,obsidian,github&perline=3"/>
-      </a>
-    </td> -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coledobmeier&layout=compact&theme=midnight-purple"/>
+    <td border="0">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coledobmeier&layout=donut&theme=midnight-purple" height="225"/>
     </td>
   </tr>
  <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="center" border="0">
       <h3> <img src="https://skillicons.dev/icons?i=py,java,raspberrypi,ubuntu,obsidian,github" width="450"/> </h3>
     </td>
   </tr>
-</table>
+</table> -->
 
----
 ## Awards
 <p align="center">
   <img src="Participant.png" alt="Participant">
