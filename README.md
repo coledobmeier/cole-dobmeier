@@ -81,32 +81,30 @@ Python, CLI frameworks, VS Code
 
 <table>
   <tr>
-    <td colspan="3" align="center">
+    <td colspan="2" align="center">
       <h3>My Github Stats!</h3>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=coledobmeier&show_icons=true&theme=gotham"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=coledobmeier&show_icons=true&theme=midnight-purple"/>
     </td>
-    <td align="center">
+<!--     <td align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=py,java,raspberrypi,ubuntu,obsidian,github&perline=3"/>
       </a>
-    </td>
+    </td> -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coledobmeier&layout=compact&theme=gotham"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coledobmeier&layout=compact&theme=midnight-purple"/>
+    </td>
+  </tr>
+ <tr>
+    <td colspan="2" align="center">
+      <h3> <img src="https://skillicons.dev/icons?i=py,java,raspberrypi,ubuntu,obsidian,github" width="450"/> </h3>
     </td>
   </tr>
 </table>
 
-</div>
-<!-- [![My Skills](https://skillicons.dev/icons?i=py,java,raspberrypi,vscode)](https://skillicons.dev)
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=coledobmeier&show_icons=true&theme=gotham"/>
-<!-- <div align="right">
-<img src="https://github-profile-trophy-coledobmeier.vercel.app/?username=coledobmeier&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
- </div> -->
- 
 ---
 ## Awards
 <p align="center">
